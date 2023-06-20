@@ -1,0 +1,9 @@
+* cl-gtk2
+
+Common Lisp binding for Gtk+
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/dmitryvk/cl-gtk2.git |
+| commit  | a3108fb                                     |
+| systems | cl-gtk2                                     |
+|---------+---------------------------------------------|
