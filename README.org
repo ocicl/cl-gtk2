@@ -7,3 +7,11 @@ Common Lisp binding for Gtk+
 | commit  | a3108fb                                     |
 | systems | cl-gtk2-gtk                                 |
 |---------+---------------------------------------------|
+
+Add..
+
+cairo
+gdk
+glib
+gtk-glext
+pango
